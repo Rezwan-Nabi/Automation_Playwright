@@ -4,7 +4,7 @@ const { InventoryPage }      = require('../page_object/Inventory_page');
 const { CartPage }           = require('../page_object/Cart_page');
 const { CheckoutPage }       = require('../page_object/Checkout_page');
 const { OrderCompletePage }  = require('../page_object/Order_page');
-const { USERS, CHECKOUT_INFO, MESSAGES, URLS } = require('../page_Object/Users');
+const { USERS, CHECKOUT_INFO, MESSAGES, URLS } = require('../page_object/Users');
 
 test.describe('Q3 — Performance Glitch User: Filter Z→A & Purchase', () => {
 
