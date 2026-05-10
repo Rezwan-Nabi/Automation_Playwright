@@ -1,15 +1,14 @@
 Project Overview
 
-This project contains automated test scenarios for the website
-SauceDemo
+This project contains automated test scenarios for the website Swag Labs
 
 The automation framework was developed using Playwright with JavaScript to validate login functionality, cart operations, checkout process, product verification, and successful order completion workflow.
 
 The project supports:
-
 Running individual test cases
 Running all test scenarios sequentially
 Allure report generation after every execution
+
 Technologies Used
 Language: JavaScript
 Automation Tool: Playwright
@@ -17,10 +16,11 @@ Test Runner: Playwright Test
 Reporting Tool: Allure Report
 Design Pattern: Page Object Model (POM)
 Package Manager: Node.js / npm
+
 Test Scenarios
 Q1 – Locked User Login Validation
 Steps:
-Navigate to SauceDemo website
+Navigate to Swag Labs website
 Login using:
 Username: locked_out_user
 Password: secret_sauce
