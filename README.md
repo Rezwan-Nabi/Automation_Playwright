@@ -1,4 +1,4 @@
-## Project Overview
+# Project Overview
 
 This project contains automated test scenarios for the website  
 https://www.saucedemo.com/
